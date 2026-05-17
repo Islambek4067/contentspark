@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "370624465644",
+    "project_id": "contentspark-dccc3",
+    "storage_bucket": "contentspark-dccc3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370624465644:android:9f9d3eab60e9f64cf1f3c9",
+        "android_client_info": {
+          "package_name": "com.contentspark.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370624465644-d7hc41c37ama83b446ic0bqkhss5j1c8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.contentspark.app",
+            "certificate_hash": "2f4d2544e698312c3226b17ed3f37e423ba38317"
+          }
+        },
+        {
+          "client_id": "370624465644-dkeubeiu093mav5sperl2i71uk1gubk1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhRS1zMX4pTLfnNvlUWed8MNOn9bmja5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370624465644-dkeubeiu093mav5sperl2i71uk1gubk1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
